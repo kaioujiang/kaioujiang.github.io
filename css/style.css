@@ -195,6 +195,7 @@ code {
     float: left;
     width: 55.00000000000001%;
     margin: 0 0.625%;
+    width: 100%;
   }
 }
 @media screen and (min-width: 560px) and (max-width: 799px) {
